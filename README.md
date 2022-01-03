@@ -3,3 +3,4 @@
 
 ## Projects
 1. Student Performance Measure
+2. Diabetes Prediction
