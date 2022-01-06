@@ -4,3 +4,4 @@
 ## Projects
 1. Student Performance Measure
 2. Diabetes Prediction
+3. Stock Price Alert
